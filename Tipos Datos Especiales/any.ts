@@ -1,0 +1,8 @@
+//PARTE 2 ANGULAR 
+//PARTE TYPESCRIPT
+//1.8
+
+//ANY -> PARA ESCAPAR DE TIPO DE DATO FIJO 
+let edad3: any = 45;
+edad3 = "46";
+
